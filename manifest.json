@@ -1,6 +1,6 @@
 {
-  "name": "SURTECHNIK - Contratos de Mantenimiento",
-  "short_name": "SURTECHNIK",
+  "name": "CONTRATOS",
+  "short_name": "CONTRATOS",
   "description": "Generador profesional de contratos de mantenimiento técnico para automatismos",
   "start_url": ".",
   "display": "standalone",
